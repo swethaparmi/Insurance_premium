@@ -15,9 +15,9 @@ def get_requirements()->List[str]:
 
 
 
-setup(name='Insurance',
+setup(name='insurance',
       version='0.0.1',
-      description='Insurance project',
+      description='insurance project',
       author='Shwetha',
       author_email='swethaparmi97@gmail.com',
       packages=find_packages(),
